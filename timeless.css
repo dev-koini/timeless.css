@@ -1,0 +1,298 @@
+/* TimeLESS.CSS Loose less time in stylesheets */
+/* Author  KOINI.IO for SOURCE CODE - MIT License */
+/* Tutorial at koini.io/Source/ */
+
+html {
+  font-family: sans-serif; 
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  margin: 0;
+}
+
+/* Class for Font Size in px */
+.s7 {
+    font-size: 7px;
+}
+.s8 {
+    font-size: 8px;
+}
+.s9 {
+    font-size: 9px;
+}
+.s10 {
+    font-size: 10px;
+}
+.s11 {
+    font-size: 11px;
+}
+.s12 {
+    font-size: 12px;
+}
+.s13 {
+    font-size: 13px;
+}
+.s14 {
+    font-size: 14px;
+}
+.s15 {
+    font-size: 15px;
+}
+.s16 {
+    font-size: 16px;
+}
+.s17 {
+    font-size: 17px;
+}
+.s18 {
+    font-size: 18px;
+}
+.s19 {
+    font-size: 19px;
+}
+.s20 {
+    font-size: 20px;
+}
+.s21 {
+    font-size: 21px;
+}
+.s22 {
+    font-size: 22px;
+}
+/* Class for Font Size in px */
+
+/* Class for Font Size in EM */
+.eO25 {
+    font-size: 0.25em;
+}
+.e050 {
+    font-size: 0.5em;
+}
+.e075 {
+    font-size: 0.75em;
+}
+.e1 {
+    font-size: 1em;
+}
+.e125 {
+    font-size: 1.25em;
+}
+.e150 {
+    font-size: 1.5em;
+}
+.e175 {
+    font-size: 1.75em;
+}
+.e2 {
+    font-size: 2em;
+}
+.e225 {
+    font-size: 2.25em;
+}
+.e250 {
+    font-size: 2.5em;
+}
+.e275 {
+    font-size: 2.75em;
+}
+.e3 {
+    font-size: 3em;
+}
+/* Class for Font Size in EM */
+
+/* Class for Font Size in vw */
+.v025 {
+    font-size: 0.25vw;
+}
+.v050 {
+    font-size: 0.5vw;
+}
+.v075 {
+    font-size: 0.75vw;
+}
+.v1 {
+    font-size: 1vw;
+}
+.v125 {
+    font-size: 1.25vw;
+}
+.v150 {
+    font-size: 1.5vw;
+}
+.v175 {
+    font-size: 1.75vw;
+}
+.v2 {
+    font-size: 2vw;
+}
+.v225 {
+    font-size: 2.25vw;
+}
+.v250 {
+    font-size: 2.5vw;
+}
+.v275 {
+    font-size: 2.75vw;
+}
+.v3 {
+    font-size: 3vw;
+}
+.v325 {
+    font-size: 3.25vw;
+}
+.v350 {
+    font-size: 3.5vw;
+}
+.v375 {
+    font-size: 3.75vw;
+}
+.v4 {
+    font-size: 4vw;
+}
+.v425 {
+    font-size: 4.25vw;
+}
+.v450 {
+    font-size: 4.5vw;
+}
+.v475 {
+    font-size: 4.75vw;
+}
+.v5 {
+    font-size: 5vw;
+}
+/* Class for Font Size in vw */
+
+/* Class for text color fff to 999 */
+
+.fff {
+    color: #fff;
+}
+.eee {
+    color: #eee;
+}
+.ddd {
+    color: #ddd;
+}
+.ccc {
+    color: #ccc;
+}
+.bbb {
+    color: #bbb;
+}
+.aaa {
+    color: #aaa;
+}
+.c000 {
+    color: #000;
+}
+.c111 {
+    color: #111;
+}
+.c222 {
+    color: #222;
+}
+.c333 {
+    color: #333;
+}
+.c444 {
+    color: #444;
+}
+.c555 {
+    color: #555;
+}
+.c666 {
+    color: #666;
+}
+.c777 {
+    color: #777;
+}
+.c888 {
+    color: #888;
+}
+.c999 {
+    color: #999;
+}
+/* Class for text color fff to 999 */
+
+/* Class for opacity */
+.o0 {
+    opacity: 0;
+}
+.o01 {
+    opacity: 0.1;
+}
+.o02 {
+    opacity: 0.2;
+}
+.o03 {
+    opacity: 0.3;
+}
+.o04 {
+    opacity: 0.4;
+}
+.o05 {
+    opacity: 0.5;
+}
+.o06 {
+    opacity: 0.6;
+}
+.o07 {
+    opacity: 0.7;
+}
+.o08 {
+    opacity: 0.8;
+}
+.o09 {
+    opacity: 0.9;
+}
+.o1 {
+    opacity: 1;
+}
+/* Class for opacity */
+
+/* Class for text decoration : none */
+.textdecorationnone {
+    text-decoration: none;
+}
+
+/* Class for text transform : uppercase */
+.uppercase {
+    text-transform: uppercase;
+}
+
+/* Class for display */
+.block {
+    display: block;
+}
+.inlineblock {
+    display: inline-block;
+}
+.inline {
+    display: inline;
+}
+.flex {
+    display:flex; 
+}
+.grid {
+    display: grid;
+}
+/* Class for display*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
