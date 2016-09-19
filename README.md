@@ -1,4 +1,6 @@
-# Timeless.css
+# Timeless.css [Timeless.css Under development](http://koini.io/Source/timeless.css) 
+## Last update : Build 0.1 - 19 september 2016
+
 Timeless coding for developers **under development**. Author koini.io.
 Timeless.css has a lot of features, you may not use all the features or think that is not necessary but i think that is a fast way to create and test projects. Timeless.css is only code with classes. It will also be compiled so don't worry, i'll do it as small and helpful as possible. Let's Begin 
 
