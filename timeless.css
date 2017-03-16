@@ -10,9 +10,12 @@ html {
 
 body {
   margin: 0;
+  padding: 0;
 }
 
-/* Class for Font Size in px */
+/* Class for Font Size in px 
+How to remember : .s mean Size */
+
 .s7 {
     font-size: 7px;
 }
@@ -63,7 +66,9 @@ body {
 }
 /* Class for Font Size in px */
 
-/* Class for Font Size in EM */
+/* Class for Font Size in EM 
+How to remember : .e mean EM */
+
 .eO25 {
     font-size: 0.25em;
 }
@@ -102,7 +107,9 @@ body {
 }
 /* Class for Font Size in EM */
 
-/* Class for Font Size in vw */
+/* Class for Font Size in vw 
+How to remember : .v mean VW */
+
 .v025 {
     font-size: 0.25vw;
 }
@@ -165,7 +172,9 @@ body {
 }
 /* Class for Font Size in vw */
 
-/* Class for text color fff to 999 */
+/* Class for text color fff to 999 
+How to remember : 3 same number hex code  
+For letters fff to aaa and numbers just add a little "c" in front of the color HEX like this .c111, means Color */
 
 .fff {
     color: #fff;
@@ -217,7 +226,8 @@ body {
 }
 /* Class for text color fff to 999 */
 
-/* Class for opacity */
+/* Class for opacity 
+How to remember : .o means Opacity */
 .o0 {
     opacity: 0;
 }
@@ -253,17 +263,20 @@ body {
 }
 /* Class for opacity */
 
-/* Class for text decoration : none */
+/* Class for text decoration : none 
+How to remember : full name and value with no - : ; or space */
 .textdecorationnone {
     text-decoration: none;
 }
 
-/* Class for text transform : uppercase */
+/* Class for text transform : uppercase 
+How to remember : just uppercase ! */
 .uppercase {
     text-transform: uppercase;
 }
 
-/* Class for display */
+/* Class for display 
+How to remember : just the value ! */
 .block {
     display: block;
 }
